@@ -16,6 +16,7 @@ export const sample = [
 ]
 
 export const developerSample = [
+  Constraction.createNew({keyword: 'ㅇㅋ', label: '오키', uri: 'https://okky.kr'}),
   Constraction.createNew({keyword: 'ㄴㅇㅂ', label: '네이버', uri: 'https://naver.com'}),
   Constraction.createNew({keyword: 'ㅍㅂ', label: '폐북', uri: 'https://facebook.com'}),
   Constraction.createNew({keyword: 'ㅇㅌㅂ', label: '유투부', uri: 'https://www.youtube.com'}),
@@ -23,6 +24,7 @@ export const developerSample = [
   Constraction.createNew({keyword: 'ㅁㅇ', label: '메일', uri: 'https://mail.google.com/'}),
   Constraction.createNew({keyword: 'ㄱㅎㅂ', label: '깉허부', uri: 'https://github.com/'}),
   Constraction.createNew({keyword: 'ㅇㅁㅈ', label: '아마존', uri: 'https://console.aws.amazon.com/'}),
+  Constraction.createNew({keyword: 'dz', label: '오키', uri: 'https://okky.kr'}),
   Constraction.createNew({keyword: 'sdq', label: '네이버', uri: 'https://naver.com'}),
   Constraction.createNew({keyword: 'vq', label: '폐북', uri: 'https://facebook.com'}),
   Constraction.createNew({keyword: 'dxq', label: '유투부', uri: 'https://www.youtube.com'}),

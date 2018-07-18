@@ -1,8 +1,8 @@
 module.exports = {
   name: '초성검색',
-  description: '"https://naver..." 아직도 주소를 타이핑하시나요? 이제 한손으로 초성만 입력하세요! "ㄴㅇㅂ" 이렇게 초성만 입력하시면 바로 이동합니다~',
+  description: '"https://youtube..." 아직도 주소를 타이핑하시나요? 이제 한손으로 초성만 입력하세요! "ㅇㅌㅂ" 이렇게 초성만 입력하시면 바로 이동합니다~',
   author: 'hyunsu <coding8282@gmail.com>',
-  version: '1.0.0',
+  version: '1.0.1',
   icons: {
     '16': 'icons/16.png',
     '48': 'icons/48.png',
